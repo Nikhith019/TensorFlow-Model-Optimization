@@ -1,7 +1,9 @@
 # Neural_Home-Assignment-1
 
 Name: Nikhith Raju Konduru
+
 700#: 700756171
+
 CRN: 23849
 
 To run the file clone this repo and execute it in the anaconda(jupyter)[pref]!!!
