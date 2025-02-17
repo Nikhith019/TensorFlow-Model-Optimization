@@ -1,5 +1,6 @@
 # Neural_Home-Assignment-1
 
+## Student Details
 Name: Nikhith Raju Konduru
 
 700#: 700756171
@@ -8,6 +9,7 @@ CRN: 23849
 
 To run the file clone this repo and execute it in the anaconda(jupyter)[pref]!!!
 
+## Explanation Of Tasks
 
 #TASK 1:
 I've created a random tensor of shape (4,6) and finded it's rank and shape using tensor flow.
