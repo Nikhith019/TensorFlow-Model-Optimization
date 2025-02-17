@@ -24,5 +24,3 @@ In this,I've trained MNIST model with both adam and SGD and compared their accur
 Task 4:
 In this I've trained a neural network and enabled tensor board logging and after that I've analyzed the loss and accuracy trends.
 
-## VIDEO
-https://github.com/Nikhith019/Neural_Home-Assignment-1/edit/main/README.md
