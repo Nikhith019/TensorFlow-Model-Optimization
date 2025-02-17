@@ -9,7 +9,7 @@ CRN: 23849
 To run the file clone this repo and execute it in the anaconda(jupyter)[pref]!!!
 
 
-TASK 1:
+#TASK 1:
 I've created a random tensor of shape (4,6) and finded it's rank and shape using tensor flow.
 And after that I've reshaped the created tensor into another shape and transposed the new shape and broadcasted a small tensor to maatch the larger tensor and added them.
 
