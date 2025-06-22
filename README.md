@@ -1,14 +1,3 @@
-# Neural_Home-Assignment-1
-
-## Student Details
-Name: Nikhith Raju Konduru
-
-700#: 700756171
-
-CRN: 23849
-
-To run the file clone this repo and execute it in the anaconda(jupyter)[pref]!!!
-
 ## Explanation Of Tasks
 
 #TASK 1:
@@ -24,7 +13,4 @@ In this,I've trained MNIST model with both adam and SGD and compared their accur
 Task 4:
 In this I've trained a neural network and enabled tensor board logging and after that I've analyzed the loss and accuracy trends.
 
-
-## VIDEO LINK
-https://drive.google.com/file/d/12IJIQV8GP0im90xgUuRFHmBgiPpOOyUz/view?usp=sharing
 
